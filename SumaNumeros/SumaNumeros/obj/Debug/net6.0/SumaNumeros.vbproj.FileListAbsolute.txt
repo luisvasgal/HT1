@@ -1,0 +1,15 @@
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\bin\Debug\net6.0\SumaNumeros.exe
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\bin\Debug\net6.0\SumaNumeros.deps.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\bin\Debug\net6.0\SumaNumeros.runtimeconfig.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\bin\Debug\net6.0\SumaNumeros.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\bin\Debug\net6.0\SumaNumeros.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.vbproj.AssemblyReference.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.AssemblyInfoInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.AssemblyInfo.vb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.vbproj.CoreCompileInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\refint\SumaNumeros.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\SumaNumeros.genruntimeconfig.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\SumaNumeros\SumaNumeros\obj\Debug\net6.0\ref\SumaNumeros.dll

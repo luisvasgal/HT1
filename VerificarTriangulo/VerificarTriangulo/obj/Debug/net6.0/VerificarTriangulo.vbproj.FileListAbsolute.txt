@@ -1,0 +1,15 @@
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\bin\Debug\net6.0\VerificarTriangulo.exe
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\bin\Debug\net6.0\VerificarTriangulo.deps.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\bin\Debug\net6.0\VerificarTriangulo.runtimeconfig.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\bin\Debug\net6.0\VerificarTriangulo.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\bin\Debug\net6.0\VerificarTriangulo.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.vbproj.AssemblyReference.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.AssemblyInfoInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.AssemblyInfo.vb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.vbproj.CoreCompileInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\refint\VerificarTriangulo.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\VerificarTriangulo.genruntimeconfig.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\VerificarTriangulo\VerificarTriangulo\obj\Debug\net6.0\ref\VerificarTriangulo.dll
