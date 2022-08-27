@@ -1,0 +1,15 @@
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\bin\Debug\net6.0\CalculoPromedio.exe
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\bin\Debug\net6.0\CalculoPromedio.deps.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\bin\Debug\net6.0\CalculoPromedio.runtimeconfig.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\bin\Debug\net6.0\CalculoPromedio.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\bin\Debug\net6.0\CalculoPromedio.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.vbproj.AssemblyReference.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.AssemblyInfoInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.AssemblyInfo.vb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.vbproj.CoreCompileInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\refint\CalculoPromedio.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\CalculoPromedio.genruntimeconfig.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoPromedio\CalculoPromedio\obj\Debug\net6.0\ref\CalculoPromedio.dll
